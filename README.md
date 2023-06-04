@@ -61,13 +61,9 @@ I am not sure if anyone would like to contribute to this project or not. But any
 - Commit 16: Added Flip Move animation to inplace sorting components
 - Commit 20: Added Tree Structure
 
-### Acknowledgement
 
-I took inspirations from the following sources for some of the segments.
-- `Pathfinder`: [The Projects That Got Me Into Google](https://youtu.be/n4t_-NjY_Sg)
-- `Archimedes Spiral for Primes`: [Why do prime numbers make these spirals? ](https://youtu.be/EK32jo7i5LQ)
-- `Recursion tree visualizer`: [Recursion Tree Visualizer](https://github.com/brpapa/recursion-tree-visualizer)
-- `Turing Machine`: [Tursi](https://github.com/schaetzc/tursi)
+
+
 
 
 
